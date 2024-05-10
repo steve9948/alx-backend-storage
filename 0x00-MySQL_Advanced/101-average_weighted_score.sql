@@ -15,3 +15,4 @@ BEGIN
     WHERE U.id=WA.id;
 END
 $$
+DELIMITER ;
